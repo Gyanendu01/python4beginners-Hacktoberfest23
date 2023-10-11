@@ -2,8 +2,8 @@
 
 <!---copy from line 4 till line 7--->
 ```markdown
-#### Name: <First Name Last Name>
-- GitHub: https://github.com/<your-github-username>/
+#### Name: <Gyanendu Boitai>
+- GitHub: https://github.com/<Gyanendu01>/
 ```
 
 # Shoutout to our passionate contributors
